@@ -1,3 +1,7 @@
 # its-a-jeancha
 
-![portada](images/portadaXD.gif)
+
+
+[portada](https://github.com/yamadajc/its-a-jeancha/blob/main/images/Portada.jpg)
+
+(images/portadaXD.gif)
