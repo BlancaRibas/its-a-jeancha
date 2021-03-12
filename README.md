@@ -2,7 +2,7 @@
 
 
 
-![portada](https://github.com/yamadajc/its-a-jeancha/blob/main/images/itsajeancha%20boton.png)
+![portada](https://github.com/yamadajc/its-a-jeancha/blob/main/images/ITS%20A%20JEANCHA.jpg)
 
 (images/portadaXD.gif)
 
