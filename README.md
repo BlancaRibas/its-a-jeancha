@@ -37,11 +37,11 @@ Una vez tengamos nuestras imagenes hacemos generamos un script con nuestros dato
 
 Lo siguiente sera guardar el modelo en un .xml o .yml
 
-Accede al [note book](https://github.com/yamadajc/its-a-jeancha/blob/main/notebook/entrenamiento_personas.ipynb) como de costumbre.
+
 
 ![jeancha](portadas/Jeancha.GIF)
 
-
+Accede al [note book](https://github.com/yamadajc/its-a-jeancha/blob/main/notebook/entrenamiento_personas.ipynb) como de costumbre.
 
 
 
