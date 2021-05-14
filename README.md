@@ -33,7 +33,7 @@ Ten en cuenta que las condiciones externas en el momento que se recopilen las im
 ![model](portadas/model.GIF)
 ##### (proceso de entrenamiento)
 
-Una vez tengamos nuestras imagenes hacemos generamos un script con nuestros datos ordenados para hasi generar un modelo con las carcteristicas de nuestro rostro. Debido a los cambios de ilumiacion producidos en el momento de la toma de las imaenes utilizare Local Binary Patterns Histograms. Este metodo describe las caracteristicas locales del objeto a analizar. 
+Una vez tengamos nuestras imagenes hacemos generamos un script con nuestros datos ordenados para generar un modelo con las carcteristicas de nuestro rostro. Debido a los cambios de ilumiacion producidos en el momento de la toma de las imaenes utilizare Local Binary Patterns Histograms. Este metodo describe las caracteristicas locales del objeto a analizar. 
 
 Lo siguiente sera guardar el modelo en un .xml o .yml
 
