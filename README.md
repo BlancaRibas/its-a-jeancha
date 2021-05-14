@@ -5,7 +5,7 @@
 
 (Bootcamp Data Analytics [ironhack](https://www.ironhack.com/es))
 
-# Introducion:
+# Introduccion:
 
 "it's a JeanCha" es un proyecto movitavado por la curiosidad sobre como el aprendizage computacional es capaz de adquirir y procesar sentidos propios de los seres humanos. 
 
