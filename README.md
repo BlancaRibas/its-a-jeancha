@@ -7,7 +7,7 @@
 
 # Introducion:
 
-"it's a JeanCha" es la primera parte de un proyecto movitavado por la curiosidad sobre como el aprendizage computacional es capaz de adquirir y procesar sentidos propios de los seres humanos. 
+"it's a JeanCha" es un proyecto movitavado por la curiosidad sobre como el aprendizage computacional es capaz de adquirir y procesar sentidos propios de los seres humanos. 
 
 
 ![portadaXD](https://github.com/yamadajc/its-a-jeancha/blob/main/images/portadaXD.gif)
@@ -51,9 +51,6 @@ Accede al notebook [entrenamiento_personas](https://github.com/yamadajc/its-a-je
 
 
 
-
-# Proximos Pasos
-En la segunda parte veremos clasificacion de sentimientos 
 
 
 
